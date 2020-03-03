@@ -1,0 +1,28 @@
+div {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#Button1 {
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 150px;
+}
+
+#Button2 {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
