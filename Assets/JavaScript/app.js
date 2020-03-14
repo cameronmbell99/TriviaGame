@@ -1,6 +1,6 @@
 window.onload = function() {
-    $("#Button1").on("click", isTrue(loop, "button1"));
-    $("#Button2").on("click", isTrue(loop, "button2"));
+    $("#Button1").on("click", function() { return isTrue(loop, "button1") });
+    $("#Button2").on("click", function() { return isTrue(loop, "button2") });
 };
 
 var Questions = [
