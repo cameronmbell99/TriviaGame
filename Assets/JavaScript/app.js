@@ -92,7 +92,7 @@ function stop() {
 
 function reset() {
 
-    time = 30;
+    time = 10;
 
     $("#Timer").html("00:30");
 

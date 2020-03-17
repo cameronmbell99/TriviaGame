@@ -1,5 +1,6 @@
 div {
     text-align: center;
+    color: white;
 }
 
 #Button1 {
@@ -20,6 +21,7 @@ div {
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 #buttons {
@@ -28,4 +30,13 @@ h1 {
 
 img {
     height: 250px;
+}
+
+.container {
+    background: orange;
+    height: 827px;
+}
+
+body {
+    background-color: brown;
 }
