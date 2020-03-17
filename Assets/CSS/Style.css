@@ -1,5 +1,4 @@
 div {
-    border: 1px solid black;
     text-align: center;
 }
 
@@ -25,4 +24,8 @@ h1 {
 
 #buttons {
     text-align: center;
+}
+
+img {
+    height: 250px;
 }
